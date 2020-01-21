@@ -7,10 +7,10 @@ and <https://github.com/zhenxuan00/graphical-gan>. <br>
 I feel grateful to the authors for providing them.
 
 ### Environment & Main Dependencies
-`CentOS Linux release 7.2.1511 (Core)<br>
-Tesla K80 Graphic rocessing Units<br>
-python 2.7.15<br>
-TensorFlow 1.14.0`
+`CentOS Linux release 7.2.1511 (Core)`<br>
+`Tesla K80 Graphic rocessing Units`<br>
+`python 2.7.15`<br>
+`TensorFlow 1.14.0`
 
 ### Usage
 * Download hyperspectral data and add them to `./dataset`.<br>
