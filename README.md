@@ -2,8 +2,8 @@
 ---------------------------------------------
 Here I provide Tensorflow implementations for GAL, BGAC, and GAC.
 
-The code was written by Guangxing Wang, thanks to two nice repositories <https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image> 
-and <https://github.com/zhenxuan00/graphical-gan>.
+The code was written by Guangxing Wang. I was inspired to an extent by the two nice repositories <https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image> 
+and <https://github.com/zhenxuan00/graphical-gan>. I feel grateful to the authors for providing them.
 
 ### Environment & Main Dependencies
 CentOS Linux release 7.2.1511 (Core)<br>
