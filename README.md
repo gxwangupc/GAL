@@ -1,4 +1,4 @@
-# Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning
+# Code for manuscript 'Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning'.
 ---------------------------------------------
 * Here I provide Tensorflow implementations for GAL, BGAC, and GAC.
 
