@@ -9,10 +9,4 @@ and <https://github.com/zhenxuan00/graphical-gan>.
 CentOS Linux release 7.2.1511 (Core)<br>
 Tesla K80 Graphic rocessing Units<br>
 python 2.7.15<br>
-TensorFlow 1.14.0<br>
-numpy<br>
-spectral<br>
-argparse<br>
-pickle<br>
-
-
+TensorFlow 1.14.0
