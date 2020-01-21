@@ -6,13 +6,13 @@ The code was written by Guangxing Wang, thanks to two nice repositories <https:/
 and <https://github.com/zhenxuan00/graphical-gan>.
 
 ### Environment & Main Dependencies
-CentOS Linux release 7.2.1511 (Core)
-Tesla K80 Graphic rocessing Units
-python 2.7.15
-TensorFlow 1.14.0
-numpy
-spectral
-argparse
-pickle
+CentOS Linux release 7.2.1511 (Core)<br>
+Tesla K80 Graphic rocessing Units<br>
+python 2.7.15<br>
+TensorFlow 1.14.0<br>
+numpy<br>
+spectral<br>
+argparse<br>
+pickle<br>
 
 
