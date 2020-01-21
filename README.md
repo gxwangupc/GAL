@@ -11,3 +11,13 @@ CentOS Linux release 7.2.1511 (Core)<br>
 Tesla K80 Graphic rocessing Units<br>
 python 2.7.15<br>
 TensorFlow 1.14.0
+
+### Usage
+Download hyperspectral data and add them to ./dataset<br>
+All the hyperparameters are in ./tflib/config.py<br>
+Set them to what you want when running a code.<br>
+Run<br>
+python GAL.py -GPU 0 <br> 
+to see GAL in the local mode on the Salinas dataset.
+
+
