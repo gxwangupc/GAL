@@ -22,7 +22,7 @@ to see GAL in the local mode on the Salinas dataset.
 
 ## *Citation
 
-@ARTICLE{Wang20GAL,
+`@ARTICLE{Wang20GAL,
 
   author={G. {Wang} and P. {Ren}},
 
@@ -37,5 +37,5 @@ to see GAL in the local mode on the Salinas dataset.
   number={},
 
   pages={}
-  }
+  }`
 
