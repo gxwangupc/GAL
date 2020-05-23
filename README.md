@@ -23,12 +23,12 @@ to see GAL in the local mode on the Salinas dataset.
 ## * Citation
 
 @ARTICLE{Wang20GAL, <br> 
-  author={G. {Wang} and P. {Ren}}, <br> 
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, <br> 
-  title={Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning}, <br> 
-  year={2020}, <br> 
-  volume={}, <br> 
-  number={}, <br> 
-  pages={} <br> 
+    author={G. {Wang} and P. {Ren}}, <br> 
+    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, <br> 
+    title={Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning}, <br> 
+    year={2020}, <br> 
+    volume={}, <br> 
+    number={}, <br> 
+    pages={} <br> 
   }
 
