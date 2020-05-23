@@ -1,4 +1,4 @@
-# Code for the manuscript 'Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning'.
+# Code for the JSTARS2020 paper 'Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning'.
 ---------------------------------------------
 * Here I provide Tensorflow implementations for GAL, BGAC, and GAC.
 
@@ -20,4 +20,22 @@ Set them to what you want when running a code.<br>
 `python GAL.py -GPU 0` <br> 
 to see GAL in the local mode on the Salinas dataset.
 
+## *Citation
+
+@ARTICLE{Wang20GAL,
+
+  author={G. {Wang} and P. {Ren}},
+
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+
+  title={Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning}, 
+
+  year={2020},
+
+  volume={},
+
+  number={},
+
+  pages={}
+  }
 
