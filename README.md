@@ -27,8 +27,8 @@ to see GAL in the local mode on the Salinas dataset.
     journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, <br> 
     title={Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning}, <br> 
     year={2020}, <br> 
-    volume={}, <br> 
+    volume={13}, <br> 
     number={}, <br> 
-    pages={} <br> 
+    pages={2019-2031} <br> 
   }
 
