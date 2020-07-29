@@ -26,9 +26,10 @@ to see GAL in the local mode on the Salinas dataset.
     author={Wang, Guangxing and Ren, Peng}, <br> 
     journal={IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.}, <br> 
     title={Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning}, <br> 
-    year={2020}, <br> 
     volume={13}, <br> 
     number={}, <br> 
-    pages={2019-2031} <br> 
+    pages={2019-2031}, <br> 
+    month={}, <br> 
+    year={2020} <br> 
   }
 
