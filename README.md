@@ -1,4 +1,4 @@
-# Code for the JSTARS2020 paper 'Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning'.
+# Code for the JSTARS2020 article 'Delving into Classifying Hyperspectral Images via Graphical Adversarial Learning'.
 ---------------------------------------------
 * Here I provide Tensorflow implementations for GAL, BGAC, and GAC.
 
