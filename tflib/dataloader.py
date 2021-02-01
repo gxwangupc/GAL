@@ -84,7 +84,6 @@ def load(batch_size=opt.BATCH_SIZE, dataset=opt.DATASET, data_dir=opt.DATA_DIR, 
 
     '''
     Apply PCA to reduce dimensionality. 
-    NOTE applying PCA before splitting train/test sets will cause information leakage!
     '''
     if use_pca:
         data_pca = np.reshape(data, (-1, data.shape[-1]))
