@@ -102,8 +102,8 @@ def load(batch_size=opt.BATCH_SIZE, dataset=opt.DATASET, data_dir=opt.DATA_DIR, 
         data_patches = np.zeros((data.shape[0] * data.shape[1], window_size, window_size, data_in.shape[-1]))
         label_patches = np.zeros((data.shape[0] * data.shape[1]))
         patch_index = 0
-        for row in range(margin, data_padded.shape[0] - 2 * margin):
-            for col in range(margin, data_padded.shape[1] - 2 * margin):
+        for row in range(margin, data_padded.shape[0] - margin):
+            for col in range(margin, data_padded.shape[1] - margin):
                 patch = data_padded[row - margin:row + margin + 1, col - margin:col + margin + 1]
                 data_patches[patch_index, :, :, :] = patch
                 label_patches[patch_index] = labels[row - margin, col - margin]
